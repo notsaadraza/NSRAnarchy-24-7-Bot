@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "NotGamerFleet",
+    "password": "NSRAnarchyBot2",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "NSRAnarchy.aternos.me",
+    "port": 44441,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "yaannnn",
+        "Yaaaannnnn",
+        "yaaaaaaaaaaaaaaannnnnnnnnnnnnn!"
       ]
     },
     "chat-log": true,
@@ -75,15 +75,6 @@
   "beds": {
     "pick-up-day": false,
     "place-night": false
-  },
-  "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
-    "events": {
-      "connect": true,
-      "disconnect": true,
-      "chat": false
-    }
   },
   "chat": {
     "respond": true
